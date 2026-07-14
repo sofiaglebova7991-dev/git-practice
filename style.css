@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 0;
+    padding: 50px;
+    background-color: honeydew;
+}
+
+ul {
+    text-align: center;
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    display: block;
+    margin: 10px;
+}
+
+a {
+    color: plum;
+}
+
+h1 {
+    color: plum;
+}
+
+p {
+    line-height: 1.5;
+}
+
+img {
+    max-width: 600px;
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
